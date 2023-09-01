@@ -1,6 +1,7 @@
 # Julia Cosmological Likelihoods
 
-<img width="250" alt="Julia Cosmological Likelihoos logo" src="https://github.com/JuliaCosmologicalLikelihoods/.github/assets/58727599/d560f15b-c030-45d6-9a46-e230a58d6510">
+<img width="250" alt="Julia Cosmological Likelihoos logo" src="https://github.com/JuliaCosmologicalLikelihoods/.github/assets/58727599/b72f0556-1524-4f81-a900-02bcbfe3766f">
+
 
 This Github organization puts together data and methods required to compute the likelihood for several cosmological experiments.
 
