@@ -9,6 +9,7 @@ Actually, the likelihood included are:
 
 - Planck temperature and polarization anisotropies, with [`PlanckLite.jl`](https://github.com/JuliaCosmologicalLikelihoods/PlanckLite.jl)
 - ACT temperature and polarization anisotropies, with [`ACTPolLite.jl`](https://github.com/JuliaCosmologicalLikelihoods/ACTPolLite.jl)
+- SPT temperature and polarization anisotropies, with [`SPTLikelihoods.jl`](https://github.com/JuliaCosmologicalLikelihoods/SPTLikelihoods.jl)
 - Power Spectrum measurements from the Blinded Challenge dataset, with [`BlindedChallenge.jl`](https://github.com/JuliaCosmologicalLikelihoods/BlindedChallenge.jl)
 
 ## Publications
