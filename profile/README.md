@@ -11,6 +11,7 @@ Actually, the likelihood included are:
 - ACT temperature and polarization anisotropies, with [`ACTPolLite.jl`](https://github.com/JuliaCosmologicalLikelihoods/ACTPolLite.jl)
 - SPT temperature and polarization anisotropies, with [`SPTLikelihoods.jl`](https://github.com/JuliaCosmologicalLikelihoods/SPTLikelihoods.jl)
 - Power Spectrum measurements from the Blinded Challenge dataset, with [`BlindedChallenge.jl`](https://github.com/JuliaCosmologicalLikelihoods/BlindedChallenge.jl)
+- BOSS full shape data, with [`BOSSLikelihoods.jl`](https://github.com/JuliaCosmologicalLikelihoods/BOSSLikelihoods.jl)
 
 ## Publications
 
