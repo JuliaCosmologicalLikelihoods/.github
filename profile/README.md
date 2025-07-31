@@ -12,8 +12,10 @@ Actually, the likelihood included are:
 - SPT temperature and polarization anisotropies, with [`SPTLikelihoods.jl`](https://github.com/JuliaCosmologicalLikelihoods/SPTLikelihoods.jl)
 - Power Spectrum measurements from the Blinded Challenge dataset, with [`BlindedChallenge.jl`](https://github.com/JuliaCosmologicalLikelihoods/BlindedChallenge.jl)
 - BOSS full shape data, with [`BOSSLikelihoods.jl`](https://github.com/JuliaCosmologicalLikelihoods/BOSSLikelihoods.jl)
+- Supernova data, with [`SNIaLikelihoods.jl`](https://github.com/JuliaCosmologicalLikelihoods/SNIaLikelihoods.jl)
 
 ## Publications
 
 The codes previously listed are used in the following publications:
 - Bonici, Bianchini, and Ruiz-Zapatero, _Capse.jl: efficient and auto-differentiable CMB power spectra emulation_ [![arXiv](https://img.shields.io/badge/arXiv-2307.14339-b31b1b.svg)](https://arxiv.org/abs/2307.14339)
+- Bonici, Bianchini, and Ruiz-Zapatero, _Effort.jl: a fast and differentiable emulator for the Effective Field Theory of the Large Scale Structure of the Universe_ [![arXiv](https://img.shields.io/badge/arXiv-2501.04639-b31b1b.svg)](https://arxiv.org/abs/2501.04639)
