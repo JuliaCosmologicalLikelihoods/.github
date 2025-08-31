@@ -18,5 +18,5 @@ Actually, the likelihood included are:
 
 The codes previously listed are used in the following publications:
 - Bonici, Bianchini, and Ruiz-Zapatero, _Capse.jl: efficient and auto-differentiable CMB power spectra emulation_ [![arXiv](https://img.shields.io/badge/arXiv-2307.14339-b31b1b.svg)](https://arxiv.org/abs/2307.14339)
-- Bonici, Bianchini, and Ruiz-Zapatero, _Effort.jl: a fast and differentiable emulator for the Effective Field Theory of the Large Scale Structure of the Universe_ [![arXiv](https://img.shields.io/badge/arXiv-2501.04639-b31b1b.svg)](https://arxiv.org/abs/2501.04639)
+- Bonici, D'Amico, Bel, Carbone, _Effort.jl: a fast and differentiable emulator for the Effective Field Theory of the Large Scale Structure of the Universe_ [![arXiv](https://img.shields.io/badge/arXiv-2501.04639-b31b1b.svg)](https://arxiv.org/abs/2501.04639)
 - Morawetz, Zhang, Bonici, Percival, Crespi et al. (DESI collaboration): _Frequentist Cosmological Constraints from Full-Shape Clustering Measurements in DESI DR1_ [![arXiv](https://img.shields.io/badge/arXiv-2508.11811-b31b1b.svg)](https://arxiv.org/abs/2508.11811)
